@@ -1,16 +1,16 @@
 import Footer from "@/components/Footer";
 import Menu from "@/components/Menu";
 
-const Home = () => {
+const Contact = () => {
   return (
     <div>
       <Menu />
       <br />
-      <h2>Bem-vindo Celke!</h2>
+      <h2>Contato</h2>
       <br />
       <Footer />
     </div>
   );
 }
 
-export default Home;
+export default Contact;
